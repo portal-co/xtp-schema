@@ -1,13 +1,14 @@
-# xtp-schema
+# portal-solutions-xtp-schema
 
 ## Description
-Project xtp-schema
+"Precompiled XTP Schema". A library for validating or working with XTP (Extension/Exchange Transport Protocol?) schemas.
 
 ## Goals
-- [ ] Add project goals
+- [ ] Define XTP schema
+- [ ] Validate messages
 
 ## Progress
-- [ ] Initial setup
+- [ ] Crate initialized with `regress`
 
 ---
 *AI assisted*
